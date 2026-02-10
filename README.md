@@ -19,6 +19,12 @@ This project focuses on:
 - Designed to work with large cost datasets
 - Keeps extraction and transformation separate
 - Intended to integrate easily with BI or automation pipelines
+  
+## How this would typically be used
+1. Scheduled extraction (daily or monthly)
+2. Store output in object storage or a data lake
+3. Consume data via Power BI or other analytics tools
+4. Trigger alerts or governance workflows based on thresholds
 
 ## Typical use cases
 - Power BI dashboards
