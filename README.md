@@ -15,7 +15,7 @@ This project focuses on:
 - Basic normalization of cost fields
 - Output suitable for reporting or further processing
 
-- ## Design considerations
+## Design considerations
 - Designed to work with large cost datasets
 - Keeps extraction and transformation separate
 - Intended to integrate easily with BI or automation pipelines
